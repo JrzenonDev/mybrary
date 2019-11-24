@@ -1,0 +1,20 @@
+{
+  "name": "mybrary",
+  "version": "1.0.0",
+  "description": "brary - Node.js, Express, MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JrzenonDev/mybrary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JrzenonDev/mybrary/issues"
+  },
+  "homepage": "https://github.com/JrzenonDev/mybrary#readme"
+}
